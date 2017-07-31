@@ -1,0 +1,22 @@
+{
+  "name": "webworkers",
+  "version": "0.0.1",
+  "description": "Web Workers Task",
+  "main": "main.js",
+  "scripts": {
+    "start": "simplehttpserver ."
+  },
+  "devDependencies": {
+    "simplehttpserver": "^0.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexvcasillas/web-workers-example.git"
+  },
+  "author": "Alex Casillas <alexvcasillas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexvcasillas/web-workers-example/issues"
+  },
+  "homepage": "https://github.com/alexvcasillas/web-workers-example#readme"
+}
